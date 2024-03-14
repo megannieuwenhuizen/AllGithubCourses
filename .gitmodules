@@ -1,0 +1,3 @@
+[submodule "LearningGitandGithub"]
+	path = LearningGitandGithub
+	url = https://github.com/megannieuwenhuizen/LearnGitandGithub.git
